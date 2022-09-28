@@ -14,6 +14,7 @@
 name: Snyk Container
 
 on:
+  workflow_dispatch: # Putting here is also fine!!
   push:
     branches: [ "master" ]
   pull_request:
