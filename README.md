@@ -2,7 +2,7 @@
 
 [![Snyk Container](https://github.com/sealmindset/struts2rce/actions/workflows/snyk-container.yml/badge.svg)](https://github.com/sealmindset/struts2rce/actions/workflows/snyk-container.yml)
 
-[![CodeQL](https://github.com/sealmindset/struts2rce/actions/workflows/codeql.yml/badge.svg)](https://github.com/sealmindset/struts2rce/actions/workflows/codeql.yml)
+[![CodeQL](https://github.com/sealmindset/struts2rce/actions/workflows/codeql.yml/badge.svg)](https://github.com/sealmindset/struts2rce/actions/workflows/codeql.yml) | [![CodeQL](https://github.com/sealmindset/struts2rce/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/sealmindset/struts2rce/actions/workflows/codeql-analysis.yml)
 
 ## Exploit Demo for CVE-2017-5638
 
