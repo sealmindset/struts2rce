@@ -1,5 +1,11 @@
 [![DepShield Badge](https://depshield.sonatype.org/badges/sonatype-nexus-community/struts2-rce/depshield.svg)](https://depshield.github.io)
 
+[![Snyk Container](https://github.com/sealmindset/struts2rce/actions/workflows/snyk-container.yml/badge.svg)](https://github.com/sealmindset/struts2rce/actions/workflows/snyk-container.yml)
+
+[![CodeQL](https://github.com/sealmindset/struts2rce/actions/workflows/codeql.yml/badge.svg)](https://github.com/sealmindset/struts2rce/actions/workflows/codeql.yml) | [![CodeQL](https://github.com/sealmindset/struts2rce/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/sealmindset/struts2rce/actions/workflows/codeql-analysis.yml)
+
+[![tfsec](https://github.com/sealmindset/struts2rce/actions/workflows/tfsec.yml/badge.svg)](https://github.com/sealmindset/struts2rce/actions/workflows/tfsec.yml)
+
 ## Exploit Demo for CVE-2017-5638
 
 Completely based on https://github.com/piesecurity/apache-struts2-CVE-2017-5638

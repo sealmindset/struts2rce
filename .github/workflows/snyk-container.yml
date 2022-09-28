@@ -14,13 +14,14 @@
 name: Snyk Container
 
 on:
+  workflow_dispatch: # Putting here is also fine!!
   push:
-    branches: [ "main" ]
+    branches: [ "master" ]
   pull_request:
     # The branches below must be a subset of the branches above
-    branches: [ "main" ]
+    branches: [ "master" ]
   schedule:
-    - cron: '25 19 * * 0'
+    - cron: '39 10 * * 3'
 
 permissions:
   contents: read
